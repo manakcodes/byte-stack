@@ -246,3 +246,95 @@ yarn-error.log
 # macOS DS Store
 # ==============================
 .DS_Store
+
+##
+# =========================
+# C / C++ / Objective-C
+# =========================
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+*.dylib
+*.class
+*.elf
+*.gch
+*.pch
+*.lo
+*.la
+*.lai
+
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.class
+*.log
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# =========================
+# Go
+# =========================
+*.exe
+*.test
+*.out
+bin/
+pkg/
+
+# =========================
+# JavaScript / Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# =========================
+# General / IDE / OS
+# =========================
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+*.DS_Store
+*.Thumbs.db
+.vscode/
+.idea/
+*.iml
+*.env
+*.cache/
+*.history/
+
+# =========================
+# Misc
+# =========================
+*.stackdump
+*.stacktrace
+*.prof
+*.hprof
+*.dSYM/
+*.out/
+*.rej
