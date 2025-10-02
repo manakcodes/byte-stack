@@ -1,0 +1,248 @@
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# C/C++ / Object files / Builds
+# ==============================
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.dll
+*.dylib
+*.a
+*.lib
+build/
+bin/
+Debug/
+Release/
+exe/
+
+# ==============================
+# Java
+# ==============================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+*.egg-info/
+dist/
+build/
+
+# ==============================
+# Go
+# ==============================
+*.exe
+*.test
+*.out
+vendor/
+
+# ==============================
+# JavaScript / Node
+# ==============================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ==============================
+# IDEs / Editors
+# ==============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# ==============================
+# Logs / Temporary / Misc
+# ==============================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.old
+
+# ==============================
+# Assets / Media
+# ==============================
+assets/*.jpg
+assets/*.png
+assets/*.jpeg
+assets/*.gif
+
+# ==============================
+# Rust / Cargo
+# ==============================
+target/
+Cargo.lock
+
+# ==============================
+# Ruby / Gem
+# ==============================
+*.gem
+*.rbc
+.bundle/
+
+# ==============================
+# PHP / Composer
+# ==============================
+vendor/
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.sqlite
+*.db
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ====================================================================
+# ==============================
+# Operating System Files
+# ==============================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==============================
+# Compiled C++/C files
+# ==============================
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.dll
+*.dylib
+*.a
+*.lib
+
+# ==============================
+# C++ Build Folders
+# ==============================
+build/
+bin/
+Debug/
+Release/
+exe/
+*.log
+*.tmp
+
+# ==============================
+# Makefile Artifacts
+# ==============================
+*.d
+*.dep
+*.P
+
+# ==============================
+# CMake / Ninja / VSCode / CLion / Xcode
+# ==============================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.user
+*.suo
+*.userprefs
+.vscode/
+.idea/
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+.envrc
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ==============================
+# Logs and Temporary Files
+# ==============================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.old
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.sqlite
+*.db
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.class
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# ==============================
+# Assets
+# ==============================
+assets/*.jpg
+assets/*.png
+assets/*.jpeg
+assets/*.gif
+
+# ==============================
+# Node/JS stuff (if any)
+# ==============================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ==============================
+# JetBrains
+# ==============================
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# ==============================
+# macOS DS Store
+# ==============================
+.DS_Store
